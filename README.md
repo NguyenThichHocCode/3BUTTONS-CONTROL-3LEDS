@@ -10,7 +10,7 @@
 - 1 100 OHM Resistor (for green)
 
 
-# Assignment:
+# Assignment 1:
 - When switched on, all 3 lights are off
 - Press button 1: light 1 turns on
 - Press button 2: lights 1 and 2 turn on
